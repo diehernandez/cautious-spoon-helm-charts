@@ -3,6 +3,16 @@ entries:
   msTemplateChart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-11-23T20:44:53.319248039Z"
+    description: A Helm chart for Kubernetes
+    digest: e5468d7be29b21939d76205327df99938509f2d0ef7f97316e8cdeef0b3b6d31
+    name: msTemplateChart
+    type: application
+    urls:
+    - https://github.com/diehernandez/cautious-spoon-helm-charts/releases/download/msTemplateChart-0.1.3/msTemplateChart-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-11-23T17:37:16.792311257Z"
     description: A Helm chart for Kubernetes
     digest: 0b34c52dd8a868c0767473c4b461feecae5e169f550c2b3edacabed6bc55aaec
