@@ -21,12 +21,3 @@
 .idea/
 *.tmproj
 .vscode/
-
-#Various from scoppiap
-node_modules
-dist
-kubectl-files
-deployment
-.idea
-.nyc_output
-.vscode
